@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="Jelentés.Module.BusinessObjects.Jelentes" ImageName="Action_Redo" />
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemMobileModule" Version="19.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="19.2.5.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
